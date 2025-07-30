@@ -1,0 +1,61 @@
+{
+  "Utility Classes": [
+    "control-label-required",
+    "cursor-pointer",
+    "login-links",
+    "control-label-sub",
+    "common-text",
+    "centered-border-bottom-blue",
+    "text-align-left-m",
+    "text-align-center-m",
+    "desktop-only",
+    "control-label",
+    "hr-pink",
+    "onboarding-description",
+    "onboarding-profile",
+    "hanging-indent",
+    "max-width",
+    "mobile-show",
+    "hr-grey",
+    "remove-ul-spacing",
+    "login-description"
+  ],
+  "Not Known": [
+    "recommended_for_me-title",
+    "recommended_for_me-category",
+    "recommended_for_me-description",
+    "font-margin-reset--all",
+    "image_corner",
+    "font-margin-reset",
+    "grey-bullets",
+    "link-color-override",
+    "indent_list",
+    "pink-bullets",
+    "steps",
+    "back-to-home",
+    "breadcrumb",
+    "free-coaching-header",
+    "welcome-message",
+    "body-small"
+  ],
+  "Grid & Columns": [
+    "collapsible-title",
+    "collapsible-intro"
+  ],
+  "Layout & Containers": [
+    "mobile-only-section"
+  ],
+  "Form Elements": [
+    "informative"
+  ],
+  "Animation & States": [
+    "hidden-desktop"
+  ],
+  "Component Sizes": [
+    "small-caps"
+  ],
+  "Color Themes": [
+    "success_title",
+    "jump-link-secondary"
+  ]
+}

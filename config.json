@@ -1,0 +1,37 @@
+{
+  "aem": {
+    "url": "https://ac8a9925a7e4.ngrok-free.app/bin/groovyconsole/post.json",
+    "headers": {
+      "Authorization": "Basic YWRtaW46YWRtaW4=",
+      "Cookie": "cq-authoring-mode=TOUCH"
+    }
+  },
+  "scripts": {
+    "css_extraction": {
+      "scriptPath": "/var/groovyconsole/scripts/getCssClasses.groovy",
+      "component": "novo-core-framework/iva/components/content/text",
+      "siteName": "wegovy",
+      "cssAttrName": "class"
+    },
+    "policy_creation": {
+      "scriptPath": "/var/groovyconsole/scripts/updatePolicies.groovy",
+      "component": "novo-core-framework/iva/components/content/image",
+      "siteName": "wegovy"
+    }
+  },
+  "files": {
+    "classification_index": "css-class-index-expanded.json",
+    "classified_result": "classified_result.json",
+    "policy_output": "policy-creation.json"
+  },
+  "openai": {
+    "model": "gpt-4-turbo",
+    "temperature": 0.7,
+    "api_key_placeholder": "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"
+  },
+  "logging": {
+    "level": "INFO",
+    "include_timestamps": true,
+    "log_file": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+    "Utility Classes": [
+        {"id": "required-control-label", "label": "Required Control Label", "className": "control-label-required"},
+        {"id": "pointer-cursor", "label": "Pointer Cursor", "className": "cursor-pointer"},
+        {"id": "login-links-style", "label": "Login Links Style", "className": "login-links"},
+        {"id": "subtitle-control-label", "label": "Subtitle Control Label", "className": "control-label-sub"},
+        {"id": "common-text-style", "label": "Common Text Style", "className": "common-text"},
+        {"id": "centered-blue-border-bottom", "label": "Centered Blue Border Bottom", "className": "centered-border-bottom-blue"},
+        {"id": "left-text-align-mobile", "label": "Left Text Align Mobile", "className": "text-align-left-m"},
+        {"id": "center-text-align-mobile", "label": "Center Text Align Mobile", "className": "text-align-center-m"},
+        {"id": "desktop-display-only", "label": "Desktop Display Only", "className": "desktop-only"},
+        {"id": "control-label-standard", "label": "Control Label Standard", "className": "control-label"},
+        {"id": "pink-horizontal-rule", "label": "Pink Horizontal Rule", "className": "hr-pink"},
+        {"id": "onboarding-description-style", "label": "Onboarding Description Style", "className": "onboarding-description"},
+        {"id": "onboarding-profile-style", "label": "Onboarding Profile Style", "className": "onboarding-profile"},
+        {"id": "hanging-indent-style", "label": "Hanging Indent Style", "className": "hanging-indent"},
+        {"id": "maximum-width-style", "label": "Maximum Width Style", "className": "max-width"},
+        {"id": "mobile-display-show", "label": "Mobile Display Show", "className": "mobile-show"},
+        {"id": "grey-horizontal-rule", "label": "Grey Horizontal Rule", "className": "hr-grey"},
+        {"id": "remove-ul-spacing-style", "label": "Remove UL Spacing Style", "className": "remove-ul-spacing"},
+        {"id": "login-description-style", "label": "Login Description Style", "className": "login-description"}
+    ],
+    "Not Known": [
+        {"id": "recommended-title", "label": "Recommended Title", "className": "recommended_for_me-title"},
+        {"id": "recommended-category", "label": "Recommended Category", "className": "recommended_for_me-category"},
+        {"id": "recommended-description", "label": "Recommended Description", "className": "recommended_for_me-description"},
+        {"id": "all-margin-reset-font", "label": "All Margin Reset Font", "className": "font-margin-reset--all"},
+        {"id": "image-corner-style", "label": "Image Corner Style", "className": "image_corner"},
+        {"id": "font-margin-reset-style", "label": "Font Margin Reset Style", "className": "font-margin-reset"},
+        {"id": "grey-bullets-style", "label": "Grey Bullets Style", "className": "grey-bullets"},
+        {"id": "link-color-override-style", "label": "Link Color Override Style", "className": "link-color-override"},
+        {"id": "indent-list-style", "label": "Indent List Style", "className": "indent_list"},
+        {"id": "pink-bullets-style", "label": "Pink Bullets Style", "className": "pink-bullets"},
+        {"id": "steps-style", "label": "Steps Style", "className": "steps"},
+        {"id": "back-to-home-link", "label": "Back To Home Link", "className": "back-to-home"},
+        {"id": "breadcrumb-style", "label": "Breadcrumb Style", "className": "breadcrumb"},
+        {"id": "free-coaching-header-style", "label": "Free Coaching Header Style", "className": "free-coaching-header"},
+        {"id": "welcome-message-style", "label": "Welcome Message Style", "className": "welcome-message"},
+        {"id": "small-body-text", "label": "Small Body Text", "className": "body-small"}
+    ],
+    "Grid & Columns": [
+        {"id": "collapsible-title-style", "label": "Collapsible Title Style", "className": "collapsible-title"},
+        {"id": "collapsible-intro-style", "label": "Collapsible Intro Style", "className": "collapsible-intro"}
+    ],
+    "Layout & Containers": [
+        {"id": "mobile-only-section-style", "label": "Mobile Only Section Style", "className": "mobile-only-section"}
+    ],
+    "Form Elements": [
+        {"id": "informative-element-style", "label": "Informative Element Style", "className": "informative"}
+    ],
+    "Animation & States": [
+        {"id": "hidden-on-desktop", "label": "Hidden On Desktop", "className": "hidden-desktop"}
+    ],
+    "Component Sizes": [
+        {"id": "small-caps-style", "label": "Small Caps Style", "className": "small-caps"}
+    ],
+    "Color Themes": [
+        {"id": "success-title-color", "label": "Success Title Color", "className": "success_title"},
+        {"id": "secondary-jump-link", "label": "Secondary Jump Link", "className": "jump-link-secondary"}
+    ]
+}
