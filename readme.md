@@ -44,11 +44,13 @@ style-system-automation/
 ## Installation
 
 1. Clone or download this repository
-2. Install required Python packages:
+2. Create virtual env -> python -m venv venv
+3. Activate -> venv\Scripts\activate.bat  
+4. Install required Python packages:
    ```bash
    pip install requests openai
    ```
-3. Set up your OpenAI API key in the script or as an environment variable
+5. Set up your OpenAI API key in the script or as an environment variable
 
 ## Configuration
 
